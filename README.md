@@ -17,40 +17,9 @@ I build agent systems that survive contact with real workflows: operable, audita
 
 **Now**
 
-- AI Agent Engineer Intern at [Lightwheel](https://www.lightwheel.ai/) · May 2026 – present
 - Building [榫卯 Tenon AI](https://tenon.asia/): four products and the infrastructure they share
 - M.Sc. Signal Processing and Machine Learning, NTU · until Jan 2027
 - Open to AI Agent / Agent Platform engineering roles · available Dec 3, 2026
-
-## Work at Lightwheel
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<b>AgentHub</b><br>
-<sub>Enterprise Agent Control Plane</sub>
-<p>One control plane for agent creation, credential handoff, deployment, upgrades, sessions and retirement; token-first authorization over 96 standardized operations.</p>
-<img alt="151 production agents" src="https://img.shields.io/badge/151-production_agents-2b2b2e?style=flat-square&labelColor=f06b32"><br>
-<img alt="100+ colleagues daily" src="https://img.shields.io/badge/100%2B-colleagues_daily-2b2b2e?style=flat-square&labelColor=f06b32">
-</td>
-<td width="33%" valign="top">
-<b>SimReadyGen</b><br>
-<sub>AI 3D asset SaaS for global users</sub>
-<p>From a website shell to a full SaaS in 22 days: sign-up, top-up, generation, human correction and delivery on one central state machine.</p>
-<img alt="372 external registrations" src="https://img.shields.io/badge/372-external_registrations-2b2b2e?style=flat-square&labelColor=f06b32"><br>
-<img alt="34 paying users" src="https://img.shields.io/badge/34-paying_users-2b2b2e?style=flat-square&labelColor=f06b32">
-</td>
-<td width="33%" valign="top">
-<b>BatchRefresh</b><br>
-<sub>Production batch reprocessing</sub>
-<p>Manual scripts replaced by select → preview → confirm → execute → recover → audit, with atomic claims, pause/resume and reconciliation.</p>
-<img alt="1,583 production batches" src="https://img.shields.io/badge/1%2C583-production_batches-2b2b2e?style=flat-square&labelColor=f06b32"><br>
-<img alt="15.47M tasks in August" src="https://img.shields.io/badge/15.47M-tasks_in_August-2b2b2e?style=flat-square&labelColor=f06b32">
-</td>
-</tr>
-</table>
-
-<sub>Figures as in my [résumé](https://tenon.asia/resume/) (updated 2026-10-26).</sub>
 
 ## Building 榫卯 Tenon AI
 
@@ -94,6 +63,33 @@ I build agent systems that survive contact with real workflows: operable, audita
 </table>
 
 Shared infrastructure: an OIDC + PKCE account service (sign-up, email verification, recovery, social sign-in and cross-product deletion) with an integration spec adopted by all four products, plus one UI/UX standard. Also on GitHub: [ai-cultivation](https://github.com/dozybot001/ai-cultivation), a framework for growing AI from a temporary helper into an auditable, explicitly authorized personal proxy.
+
+## Production work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<b>AgentHub</b><br>
+<sub>Enterprise Agent Control Plane</sub>
+<p>Agent creation, permissions, releases and retirement in one control plane.</p>
+<img alt="151 production agents" src="https://img.shields.io/badge/151-production_agents-2b2b2e?style=flat-square&labelColor=f06b32">
+</td>
+<td width="33%" valign="top">
+<b>SimReadyGen</b><br>
+<sub>AI 3D asset SaaS</sub>
+<p>From a website shell to a full SaaS with billing and delivery in 22 days.</p>
+<img alt="34 paying users" src="https://img.shields.io/badge/34-paying_users-2b2b2e?style=flat-square&labelColor=f06b32">
+</td>
+<td width="33%" valign="top">
+<b>BatchRefresh</b><br>
+<sub>Batch reprocessing platform</sub>
+<p>Manual scripts replaced by a previewed, recoverable and audited workflow.</p>
+<img alt="1,583 production batches" src="https://img.shields.io/badge/1%2C583-production_batches-2b2b2e?style=flat-square&labelColor=f06b32">
+</td>
+</tr>
+</table>
+
+<sub>Systems I led during an internship (May 2026 – present). Details and figures are in my [résumé](https://tenon.asia/resume/).</sub>
 
 ## GitHub activity
 
