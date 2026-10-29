@@ -49,7 +49,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 <sub>Equitable one-to-one secret exchange</sub>
 <br clear="left">
 <p>Private wish pools, mutual matching, dual acceptance and a transactional reveal make safety part of the interaction rather than a policy page.</p>
-<sub><a href="https://apps.apple.com/us/app/wesaid/id6795870332">App Store</a> · <a href="https://wesaid.tenon.asia/">Web</a> · <a href="https://github.com/dozybot001/WeSaid">Repository</a></sub>
+<sub><a href="https://apps.apple.com/us/app/wesaid/id6795870332">App Store</a> · <a href="https://wesaid.tenon.asia/">Web</a></sub>
 </td>
 <td width="50%" valign="top">
 <img src="assets/icons/passby.svg" width="40" height="40" align="left" hspace="10" alt="">
