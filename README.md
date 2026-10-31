@@ -101,10 +101,10 @@ Shared infrastructure: an OIDC + PKCE account service (sign-up, email verificati
 ## Writing
 
 <!-- writing:start -->
+- [把每一次交互写进模型](https://tenon.asia/blog/parametric-memory/) <sub>2026-10-31</sub>
+- [动态智能：让模型在运行中改变自己](https://tenon.asia/blog/dynamic-intelligence/) <sub>2026-10-31</sub>
 - [老框架，新部件：用 Jev 让概率模型自己建、自己更新](https://tenon.asia/blog/jev-live-models/) <sub>2026-10-23</sub>
 - [Jev 能用来做什么：从概率门到可计算的信念模型](https://tenon.asia/blog/jev-applications/) <sub>2026-10-23</sub>
-- [概率门实验：Jev 的概率能直接用吗](https://tenon.asia/blog/probability-gates-experiments/) <sub>2026-10-23</sub>
-- [概率门：从比特到概率的电路](https://tenon.asia/blog/probability-gates/) <sub>2026-10-22</sub>
 <!-- writing:end -->
 
 <sub>More at [tenon.asia/blog](https://tenon.asia/blog/).</sub>
