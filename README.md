@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Dorian Zeng · AI Agent / Agent Platform Engineer · building 榫卯 Tenon AI" src="assets/banner-light.svg" width="100%">
+  <img alt="Dorian Zeng · AI Agent / Agent Platform Engineer · building Tenon AI" src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -13,32 +13,30 @@
 
 I build agent systems that survive contact with real workflows: operable, auditable, recoverable, and bounded by explicit permissions.
 
-> 我关注的不只是 Agent 能否完成一次任务，而是它能否被安全地创建、授权、协作、恢复并长期运营。
-
 **Now**
 
-- Building [榫卯 Tenon AI](https://tenon.asia/): four products and the infrastructure they share
+- Building [Tenon AI](https://tenon.asia/): enterprise AI transformation services and six products
 - M.Sc. Signal Processing and Machine Learning, NTU · until Jan 2027
 - Open to AI Agent / Agent Platform engineering roles · available Dec 3, 2026
 
-## Building 榫卯 Tenon AI
+## Building Tenon AI
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <img src="assets/icons/tenon.svg" width="40" height="40" align="left" hspace="10" alt="">
 <b><a href="https://tenon.asia/products/agenthub/">AgentHub</a></b><br>
-<sub>AI agent fleet control plane · personal edition</sub>
+<sub>The control platform for enterprise agent clusters</sub>
 <br clear="left">
-<p>Rebuilt from scratch: one instance per server, a model-gateway key per agent tied to its lifecycle, controlled delegation and sequential multi-agent workflows.</p>
+<p>Rebuilt from scratch: one instance per server, a model-gateway key per agent tied to its lifecycle, controlled delegation and multi-agent workflows on a canvas.</p>
 <sub><a href="https://agenthub.tenon.asia/">Live instance</a> · <a href="https://tenon.asia/products/agenthub/">Details</a></sub>
 </td>
 <td width="50%" valign="top">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/inthub-dark.svg"><img src="assets/icons/inthub-light.svg" width="40" height="40" align="left" hspace="10" alt=""></picture>
-<b><a href="https://github.com/dozybot001/Intent">Intent</a> / <a href="https://tenon.asia/products/inthub/">IntHub</a></b><br>
-<sub>Semantic history for agent-driven development</sub>
+<b><a href="https://github.com/dozybot001/Intent">Intent CLI</a> / <a href="https://tenon.asia/products/inthub/">IntHub</a></b><br>
+<sub>Semantic Git for the vibe coding era, and its cloud home</sub>
 <br clear="left">
-<p>Intent, Snap and Decision keep goals, verified progress and durable decisions above Git; a CLI, an Agent Skill and Codex hooks give each new session a place to start.</p>
+<p>Intent, Snap and Decision keep goals, verified progress and durable decisions next to your code; a CLI, an Agent Skill and project hooks give each new session a place to start.</p>
 <sub><a href="https://github.com/dozybot001/Intent">Repository</a> · <a href="https://inthub.tenon.asia/">IntHub</a></sub>
 </td>
 </tr>
@@ -46,7 +44,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 <td width="50%" valign="top">
 <img src="assets/icons/wesaid.svg" width="40" height="40" align="left" hspace="10" alt="">
 <b><a href="https://tenon.asia/products/wesaid/">WeSaid</a></b><br>
-<sub>Equitable one-to-one secret exchange</sub>
+<sub>A secret exchange app built on equal terms</sub>
 <br clear="left">
 <p>Private wish pools, mutual matching, dual acceptance and a transactional reveal make safety part of the interaction rather than a policy page.</p>
 <sub><a href="https://apps.apple.com/us/app/wesaid/id6795870332">App Store</a> · <a href="https://wesaid.tenon.asia/">Web</a></sub>
@@ -54,15 +52,25 @@ I build agent systems that survive contact with real workflows: operable, audita
 <td width="50%" valign="top">
 <img src="assets/icons/passby.svg" width="40" height="40" align="left" hspace="10" alt="">
 <b><a href="https://tenon.asia/products/passby/">PassBy</a></b><br>
-<sub>Private password notebook</sub>
+<sub>A simple password notebook</sub>
 <br clear="left">
 <p>A native SwiftUI password notebook for iPhone, with a web version for the desktop.</p>
 <sub><a href="https://apps.apple.com/app/passby-password-notebook/id6817881529">App Store</a> · <a href="https://passby.tenon.asia/">Web</a></sub>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+<img src="assets/icons/caret.svg" width="40" height="40" align="left" hspace="10" alt="">
+<b><a href="https://tenon.asia/products/caret/">Caret</a></b><br>
+<sub>An ultralight coding agent in your browser</sub>
+<br clear="left">
+<p>Three tools: read, write and edit. No install, no account and no application server; changes stay in the editor until you have read the diff.</p>
+<sub><a href="https://caret.tenon.asia/">Open Caret</a> · <a href="https://github.com/dozybot001/Caret">Repository</a></sub>
+</td>
+</tr>
 </table>
 
-Shared infrastructure: an OIDC + PKCE account service (sign-up, email verification, recovery, social sign-in and cross-product deletion) with an integration spec adopted by all four products, plus one UI/UX standard. Also on GitHub: [ai-cultivation](https://github.com/dozybot001/ai-cultivation), a framework for growing AI from a temporary helper into an auditable, explicitly authorized personal proxy.
+Shared infrastructure: an OIDC + PKCE account service (sign-up, email verification, recovery, social sign-in and cross-product deletion) with an integration spec adopted by every product with sign-in, plus one UI/UX standard. Also on GitHub: [ai-cultivation](https://github.com/dozybot001/ai-cultivation), a framework for growing AI from a temporary helper into an auditable, explicitly authorized personal proxy.
 
 ## Production work
 
@@ -101,10 +109,10 @@ Shared infrastructure: an OIDC + PKCE account service (sign-up, email verificati
 ## Writing
 
 <!-- writing:start -->
-- [把每一次交互写进模型](https://tenon.asia/blog/parametric-memory/) <sub>2026-10-31</sub>
-- [动态智能：让模型在运行中改变自己](https://tenon.asia/blog/dynamic-intelligence/) <sub>2026-10-31</sub>
-- [老框架，新部件：用 Jev 让概率模型自己建、自己更新](https://tenon.asia/blog/jev-live-models/) <sub>2026-10-23</sub>
-- [Jev 能用来做什么：从概率门到可计算的信念模型](https://tenon.asia/blog/jev-applications/) <sub>2026-10-23</sub>
+- [Writing every interaction into the model](https://tenon.asia/blog/parametric-memory/) <sub>2026-10-31</sub>
+- [Dynamic intelligence: models that change as they run](https://tenon.asia/blog/dynamic-intelligence/) <sub>2026-10-31</sub>
+- [Old frameworks, a new part: letting probability models build and update themselves with Jev](https://tenon.asia/blog/jev-live-m
+- [What Jev can be used for: from probability gates to computable belief models](https://tenon.asia/blog/jev-applications/) <sub>2
 <!-- writing:end -->
 
 <sub>More at [tenon.asia/blog](https://tenon.asia/blog/).</sub>
