@@ -111,8 +111,8 @@ Shared infrastructure: an OIDC + PKCE account service (sign-up, email verificati
 <!-- writing:start -->
 - [Writing every interaction into the model](https://tenon.asia/blog/parametric-memory/) <sub>2026-10-31</sub>
 - [Dynamic intelligence: models that change as they run](https://tenon.asia/blog/dynamic-intelligence/) <sub>2026-10-31</sub>
-- [Old frameworks, a new part: letting probability models build and update themselves with Jev](https://tenon.asia/blog/jev-live-m
-- [What Jev can be used for: from probability gates to computable belief models](https://tenon.asia/blog/jev-applications/) <sub>2
+- [Old frameworks, a new part: letting probability models build and update themselves with Jev](https://tenon.asia/blog/jev-live-models/) <sub>2026-10-23</sub>
+- [What Jev can be used for: from probability gates to computable belief models](https://tenon.asia/blog/jev-applications/) <sub>2026-10-23</sub>
 <!-- writing:end -->
 
 <sub>More at [tenon.asia/blog](https://tenon.asia/blog/).</sub>
