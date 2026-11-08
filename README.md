@@ -15,7 +15,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 
 **Now**
 
-- Building [Tenon AI](https://tenon.asia/): enterprise AI transformation services and six products
+- Building [Tenon AI](https://tenon.asia/): enterprise digital and AI transformation, plus six products
 - M.Sc. Signal Processing and Machine Learning, NTU · until Jan 2027
 - Open to AI Agent / Agent Platform engineering roles · available Dec 3, 2026
 
