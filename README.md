@@ -136,8 +136,8 @@ Shared infrastructure: an OIDC + PKCE account service (sign-up, email verificati
 ## Writing
 
 <!-- writing:start -->
-- [Session engineering, part 2: one session between me and the rest](https://tenon.asia/blog/session-engineering-chief-of-staff/) <sub>2026-11-08</sub>
-- [Session engineering: organizing agent sessions is also managing your own context](https://tenon.asia/blog/session-engineering/) <sub>2026-11-06</sub>
+- [Session Engineering, part 2: one session between me and the rest](https://tenon.asia/blog/session-engineering-chief-of-staff/) <sub>2026-11-08</sub>
+- [Session Engineering: organizing agent sessions is also managing your own context](https://tenon.asia/blog/session-engineering/) <sub>2026-11-06</sub>
 - [Writing every interaction into the model](https://tenon.asia/blog/parametric-memory/) <sub>2026-10-31</sub>
 - [Dynamic intelligence: models that change as they run](https://tenon.asia/blog/dynamic-intelligence/) <sub>2026-10-31</sub>
 <!-- writing:end -->
