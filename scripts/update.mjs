@@ -34,7 +34,7 @@ function banner(theme, font) {
     const level = inMark ? (noise < 0.3 ? 3 : 4) : noise < 0.78 ? 0 : noise < 0.93 ? 1 : 2;
     cells.push(`<rect x="${852 + col * 30}" y="${58 + row * 30}" width="24" height="24" rx="5" fill="${t.levels[level]}"/>`);
   }
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Dorian Zeng, AI Agent and Agent Platform Engineer, building Tenon AI">
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Dorian Zeng, founder of Tenon AI: enterprise digital and AI transformation">
 <style>
 @font-face { font-family: 'Manrope'; src: url(data:font/woff2;base64,${font}) format('woff2'); font-weight: 200 800; }
 text { font-family: 'Manrope', ${SANS}; }
@@ -43,8 +43,8 @@ text { font-family: 'Manrope', ${SANS}; }
 <g transform="translate(72 62)"><rect width="34" height="34" rx="9" fill="#f06b32"/><path d="M7 8.5H27V14.9H20.2V25.5H13.8V14.9H7Z" fill="#fff"/></g>
 <text x="118" y="86" font-size="18" font-weight="600" fill="${t.soft}">Tenon AI</text>
 <text x="72" y="172" font-size="66" font-weight="700" letter-spacing="-1.6" fill="${t.ink}">Dorian Zeng</text>
-<text x="72" y="220" font-size="26" font-weight="600" fill="${t.soft}">AI Agent / Agent Platform Engineer</text>
-<text x="72" y="262" font-size="19" font-weight="500" fill="${t.muted}">Operable, auditable and recoverable agent systems<tspan fill="${t.accentText}" dx="14">·</tspan><tspan dx="14">Singapore</tspan></text>
+<text x="72" y="220" font-size="26" font-weight="600" fill="${t.soft}">Founder of Tenon AI</text>
+<text x="72" y="262" font-size="19" font-weight="500" fill="${t.muted}">Enterprise digital and AI transformation<tspan fill="${t.accentText}" dx="14">·</tspan><tspan dx="14">Singapore</tspan></text>
 ${cells.join('\n')}
 </svg>
 `;
