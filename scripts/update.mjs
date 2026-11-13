@@ -6,7 +6,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 
 const LOGIN = 'dozybot001';
-const FEED = 'https://tenon.asia/blog/feed.xml';
+const FEED = 'https://tenonai.cn/blog/feed.xml';
 const root = new URL('../', import.meta.url);
 const file = path => new URL(path, root);
 

@@ -4,9 +4,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://tenon.asia/"><img alt="tenon.asia" src="https://img.shields.io/badge/tenon.asia-f06b32?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHBhdGggZD0iTTEwIDEySDU0VjI3SDM5LjVWNTRIMjQuNVYyN0gxMFoiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D"></a>
-  <a href="https://tenon.asia/resume/"><img alt="Profile" src="https://img.shields.io/badge/Profile-2b2b2e?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE0IDNIN2EyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoMTBhMiAyIDAgMCAwIDItMlY4eiIvPjxwYXRoIGQ9Ik0xNCAzdjVoNU05IDEzaDZNOSAxN2g2Ii8%2BPC9zdmc%2B"></a>
-  <a href="https://tenon.asia/blog/"><img alt="Blog" src="https://img.shields.io/badge/Blog-2b2b2e?style=flat-square&logo=rss&logoColor=white"></a>
+  <a href="https://tenonai.cn/"><img alt="tenonai.cn" src="https://img.shields.io/badge/tenonai.cn-f06b32?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHBhdGggZD0iTTEwIDEySDU0VjI3SDM5LjVWNTRIMjQuNVYyN0gxMFoiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D"></a>
+  <a href="https://tenonai.cn/resume/"><img alt="Profile" src="https://img.shields.io/badge/Profile-2b2b2e?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE0IDNIN2EyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoMTBhMiAyIDAgMCAwIDItMlY4eiIvPjxwYXRoIGQ9Ik0xNCAzdjVoNU05IDEzaDZNOSAxN2g2Ii8%2BPC9zdmc%2B"></a>
+  <a href="https://tenonai.cn/blog/"><img alt="Blog" src="https://img.shields.io/badge/Blog-2b2b2e?style=flat-square&logo=rss&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/dorianzeng/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuOTggMy41YTIuNSAyLjUgMCAxIDEgMCA1IDIuNSAyLjUgMCAwIDEgMC01ek0zIDloNHYxMkgzek05IDloMy44djEuN2guMDVjLjUzLTEgMS44My0yLjA1IDMuNzctMi4wNUMyMC42IDguNjUgMjEuNCAxMS4yIDIxLjQgMTQuNlYyMWgtNHYtNS42YzAtMS4zNC0uMDMtMy4wNi0xLjg2LTMuMDYtMS44NyAwLTIuMTUgMS40Ni0yLjE1IDIuOTZWMjFIOXoiLz48L3N2Zz4%3D"></a>
   <a href="mailto:support@tenonai.cn"><img alt="Email" src="https://img.shields.io/badge/support%40tenonai.cn-2b2b2e?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMyIgeT0iNSIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE0IiByeD0iMyIvPjxwYXRoIGQ9Im00IDcgOCA2IDgtNiIvPjwvc3ZnPg%3D%3D"></a>
 </p>
@@ -15,7 +15,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 
 **Now**
 
-- Building [Tenon AI](https://tenon.asia/): enterprise digital and AI transformation, plus seven products
+- Building [Tenon AI](https://tenonai.cn/): enterprise digital and AI transformation, plus seven products
 
 ## Building Tenon AI
 
@@ -23,15 +23,15 @@ I build agent systems that survive contact with real workflows: operable, audita
 <tr>
 <td width="50%" valign="top">
 <img src="assets/icons/tenon.svg" width="40" height="40" align="left" hspace="10" alt="">
-<b><a href="https://tenon.asia/products/agenthub/">AgentHub</a></b><br>
+<b><a href="https://tenonai.cn/products/agenthub/">AgentHub</a></b><br>
 <sub>The control platform for enterprise agent clusters</sub>
 <br clear="left">
 <p>Rebuilt from scratch: one instance per server, a model-gateway key per agent tied to its lifecycle, controlled delegation and multi-agent workflows on a canvas.</p>
-<sub><a href="https://agenthub.tenon.asia/">Live instance</a> · <a href="https://tenon.asia/products/agenthub/">Details</a></sub>
+<sub><a href="https://agenthub.tenon.asia/">Live instance</a> · <a href="https://tenonai.cn/products/agenthub/">Details</a></sub>
 </td>
 <td width="50%" valign="top">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/inthub-dark.svg"><img src="assets/icons/inthub-light.svg" width="40" height="40" align="left" hspace="10" alt=""></picture>
-<b><a href="https://github.com/dozybot001/Intent">Intent CLI</a> / <a href="https://tenon.asia/products/inthub/">IntHub</a></b><br>
+<b><a href="https://github.com/dozybot001/Intent">Intent CLI</a> / <a href="https://tenonai.cn/products/inthub/">IntHub</a></b><br>
 <sub>Semantic Git for the vibe coding era, and its cloud home</sub>
 <br clear="left">
 <p>Intent, Snap and Decision keep goals, verified progress and durable decisions next to your code; a CLI, an Agent Skill and project hooks give each new session a place to start.</p>
@@ -41,25 +41,25 @@ I build agent systems that survive contact with real workflows: operable, audita
 <tr>
 <td width="50%" valign="top">
 <img src="assets/icons/caret.svg" width="40" height="40" align="left" hspace="10" alt="">
-<b><a href="https://tenon.asia/products/caret/">Caret</a></b><br>
+<b><a href="https://tenonai.cn/products/caret/">Caret</a></b><br>
 <sub>An ultralight coding agent in your browser</sub>
 <br clear="left">
 <p>Three tools: read, write and edit. No install, no account and no application server; changes stay in the editor until you have read the diff.</p>
-<sub><a href="https://caret.tenon.asia/">Open Caret</a> · <a href="https://github.com/dozybot001/Caret">Repository</a></sub>
+<sub><a href="https://caret.tenonai.cn/">Open Caret</a> · <a href="https://github.com/dozybot001/Caret">Repository</a></sub>
 </td>
 <td width="50%" valign="top">
 <img src="assets/icons/jig.svg" width="40" height="40" align="left" hspace="10" alt="">
-<b><a href="https://tenon.asia/products/jig/">Jig</a></b><br>
+<b><a href="https://tenonai.cn/products/jig/">Jig</a></b><br>
 <sub>An AI-native multi-agent workbench</sub>
 <br clear="left">
 <p>Born for Session Engineering. You deal only with the main conversation, and approvals and decisions sit in the approval center, on your phone too.</p>
-<sub>Used inside Tenon AI · <a href="https://tenon.asia/products/jig/">Details</a></sub>
+<sub>Used inside Tenon AI · <a href="https://tenonai.cn/products/jig/">Details</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <img src="assets/icons/wesaid.svg" width="40" height="40" align="left" hspace="10" alt="">
-<b><a href="https://tenon.asia/products/wesaid/">WeSaid</a></b><br>
+<b><a href="https://tenonai.cn/products/wesaid/">WeSaid</a></b><br>
 <sub>A secret exchange app built on equal terms</sub>
 <br clear="left">
 <p>Private wish pools, mutual matching, dual acceptance and a transactional reveal make safety part of the interaction rather than a policy page.</p>
@@ -67,7 +67,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 </td>
 <td width="50%" valign="top">
 <img src="assets/icons/passby.svg" width="40" height="40" align="left" hspace="10" alt="">
-<b><a href="https://tenon.asia/products/passby/">PassBy</a></b><br>
+<b><a href="https://tenonai.cn/products/passby/">PassBy</a></b><br>
 <sub>A simple password notebook</sub>
 <br clear="left">
 <p>A native SwiftUI password notebook for iPhone, with a web version for the desktop.</p>
@@ -124,7 +124,7 @@ Shared infrastructure: an OIDC + PKCE account service (sign-up, email verificati
 </tr>
 </table>
 
-<sub>Five systems I led during an internship (May 2026 – present). Figures are as of October 30, 2026; details are in my [profile](https://tenon.asia/resume/).</sub>
+<sub>Five systems I led during an internship (May 2026 – present). Figures are as of October 30, 2026; details are in my [profile](https://tenonai.cn/resume/).</sub>
 
 ## GitHub activity
 
@@ -136,13 +136,13 @@ Shared infrastructure: an OIDC + PKCE account service (sign-up, email verificati
 ## Writing
 
 <!-- writing:start -->
-- [Session Engineering, part 2: one session between me and the rest](https://tenon.asia/blog/session-engineering-chief-of-staff/) <sub>2026-11-08</sub>
-- [Session Engineering: organizing agent sessions is also managing your own context](https://tenon.asia/blog/session-engineering/) <sub>2026-11-06</sub>
-- [Writing every interaction into the model](https://tenon.asia/blog/parametric-memory/) <sub>2026-10-31</sub>
-- [Dynamic intelligence: models that change as they run](https://tenon.asia/blog/dynamic-intelligence/) <sub>2026-10-31</sub>
+- [Session Engineering, part 2: one session between me and the rest](https://tenonai.cn/blog/session-engineering-chief-of-staff/) <sub>2026-11-08</sub>
+- [Session Engineering: organizing agent sessions is also managing your own context](https://tenonai.cn/blog/session-engineering/) <sub>2026-11-06</sub>
+- [Writing every interaction into the model](https://tenonai.cn/blog/parametric-memory/) <sub>2026-10-31</sub>
+- [Dynamic intelligence: models that change as they run](https://tenonai.cn/blog/dynamic-intelligence/) <sub>2026-10-31</sub>
 <!-- writing:end -->
 
-<sub>More at [tenon.asia/blog](https://tenon.asia/blog/).</sub>
+<sub>More at [tenonai.cn/blog](https://tenonai.cn/blog/).</sub>
 
 ## Engineering principles
 
