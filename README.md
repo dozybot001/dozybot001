@@ -70,8 +70,8 @@ I build agent systems that survive contact with real workflows: operable, audita
 <b><a href="https://tenonai.cn/products/passby/">PassBy</a></b><br>
 <sub>A simple password notebook</sub>
 <br clear="left">
-<p>A native SwiftUI password notebook for iPhone, with a web version for the desktop.</p>
-<sub><a href="https://apps.apple.com/app/passby-password-notebook/id6817881529">App Store</a> · <a href="https://passby.tenon.asia/">Web</a></sub>
+<p>A native SwiftUI password notebook for iPhone.</p>
+<sub><a href="https://apps.apple.com/app/passby-password-notebook/id6817881529">App Store</a></sub>
 </td>
 </tr>
 </table>
