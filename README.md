@@ -27,7 +27,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 <sub>The control platform for enterprise agent clusters</sub>
 <br clear="left">
 <p>Rebuilt from scratch: one instance per server, a model-gateway key per agent tied to its lifecycle, controlled delegation and multi-agent workflows on a canvas.</p>
-<sub><a href="https://agenthub.tenon.asia/">Live instance</a> · <a href="https://tenonai.cn/products/agenthub/">Details</a></sub>
+<sub><a href="https://agenthub.tenonai.cn/">Live instance</a> · <a href="https://tenonai.cn/products/agenthub/">Details</a></sub>
 </td>
 <td width="50%" valign="top">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/inthub-dark.svg"><img src="assets/icons/inthub-light.svg" width="40" height="40" align="left" hspace="10" alt=""></picture>
