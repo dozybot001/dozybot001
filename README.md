@@ -35,7 +35,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 <sub>Semantic Git for the vibe coding era, and its cloud home</sub>
 <br clear="left">
 <p>Intent, Snap and Decision keep goals, verified progress and durable decisions next to your code; a CLI, an Agent Skill and project hooks give each new session a place to start.</p>
-<sub><a href="https://github.com/dozybot001/Intent">Repository</a> · <a href="https://inthub.tenon.asia/">IntHub</a></sub>
+<sub><a href="https://github.com/dozybot001/Intent">Repository</a> · <a href="https://inthub.tenonai.cn/">IntHub</a></sub>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 <sub>A secret exchange app built on equal terms</sub>
 <br clear="left">
 <p>Private wish pools, mutual matching, dual acceptance and a transactional reveal make safety part of the interaction rather than a policy page.</p>
-<sub><a href="https://apps.apple.com/us/app/wesaid/id6795870332">App Store</a> · <a href="https://wesaid.tenon.asia/">Web</a></sub>
+<sub><a href="https://apps.apple.com/us/app/wesaid/id6795870332">App Store</a> · <a href="https://wesaid.tenonai.cn/">Web</a></sub>
 </td>
 <td width="50%" valign="top">
 <img src="assets/icons/passby.svg" width="40" height="40" align="left" hspace="10" alt="">
