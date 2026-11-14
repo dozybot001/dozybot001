@@ -71,7 +71,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 <sub>A simple password notebook</sub>
 <br clear="left">
 <p>A native SwiftUI password notebook for iPhone.</p>
-<sub><a href="https://apps.apple.com/app/passby-password-notebook/id6817881529">App Store</a></sub>
+<sub><a href="https://apps.apple.com/app/passby-password-notebook/id6817881529">App Store</a> · <a href="https://passby.tenonai.cn/">Web</a></sub>
 </td>
 </tr>
 </table>
