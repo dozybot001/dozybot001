@@ -53,7 +53,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 <sub>An AI-native multi-agent workbench</sub>
 <br clear="left">
 <p>Born for Session Engineering. You deal only with the main conversation, and approvals and decisions sit in the approval center, on your phone too.</p>
-<sub>Used inside Tenon AI · <a href="https://tenonai.cn/products/jig/">Details</a></sub>
+<sub><a href="https://github.com/dozybot001/Jig">Repository</a> · <a href="https://tenonai.cn/products/jig/">Details</a></sub>
 </td>
 </tr>
 <tr>
