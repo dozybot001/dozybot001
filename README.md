@@ -70,7 +70,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 <b><a href="https://tenonai.cn/products/passby/">PassBy</a></b><br>
 <sub>A simple password notebook</sub>
 <br clear="left">
-<p>A native SwiftUI password notebook for iPhone.</p>
+<p>No account, the app never goes online, and nothing passes through our servers. Your phone keeps the notebook.</p>
 <sub><a href="https://github.com/dozybot001/PassBy">Repository</a> · <a href="https://tenonai.cn/products/passby/">Details</a></sub>
 </td>
 </tr>
