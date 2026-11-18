@@ -22,10 +22,11 @@ I build agent systems that survive contact with real workflows: operable, audita
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/icons/tenon.svg" width="40" height="40" align="left" hspace="10" alt="">
+<img src="assets/icons/agenthub.svg" width="40" height="40" align="left" hspace="10" alt="">
 <b><a href="https://tenonai.cn/products/agenthub/">AgentHub</a></b><br>
 <sub>The control platform for enterprise agent clusters</sub>
 <br clear="left">
+<a href="https://tenonai.cn/products/agenthub/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://tenonai.cn/assets/products/agenthub-cluster-en-dark.webp"><img src="https://tenonai.cn/assets/products/agenthub-cluster-en-light.webp" alt="AgentHub cluster console: agent status, owners and management entry points" width="100%"></picture></a>
 <p>Rebuilt from scratch: one instance per server, a model-gateway key per agent tied to its lifecycle, controlled delegation and multi-agent workflows on a canvas.</p>
 <sub><a href="https://agenthub.tenonai.cn/">Live instance</a> · <a href="https://tenonai.cn/products/agenthub/">Details</a></sub>
 </td>
@@ -34,6 +35,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 <b><a href="https://github.com/dozybot001/Intent">Intent CLI</a> / <a href="https://tenonai.cn/products/inthub/">IntHub</a></b><br>
 <sub>Semantic Git for the vibe coding era, and its cloud home</sub>
 <br clear="left">
+<a href="https://tenonai.cn/products/intent/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://tenonai.cn/assets/products/intent-inspect-en-dark.webp"><img src="https://tenonai.cn/assets/products/intent-inspect-en-light.webp" alt="itt inspect: active goals with next steps, blockers and verified state, plus standing decisions" width="100%"></picture></a>
 <p>Intent, Snap and Decision keep goals, verified progress and durable decisions next to your code; a CLI, an Agent Skill and project hooks give each new session a place to start.</p>
 <sub><a href="https://github.com/dozybot001/Intent">Repository</a> · <a href="https://inthub.tenonai.cn/">IntHub</a></sub>
 </td>
@@ -44,6 +46,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 <b><a href="https://tenonai.cn/products/caret/">Caret</a></b><br>
 <sub>An ultralight coding agent in your browser</sub>
 <br clear="left">
+<a href="https://tenonai.cn/products/caret/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://tenonai.cn/assets/products/caret-review-en-dark.webp"><img src="https://tenonai.cn/assets/products/caret-review-en-light.webp" alt="Caret review: the agent's diff, task steps and files waiting to be written" width="100%"></picture></a>
 <p>Three tools: read, write and edit. No install, no account and no application server; changes stay in the editor until you have read the diff.</p>
 <sub><a href="https://caret.tenonai.cn/">Open Caret</a> · <a href="https://github.com/dozybot001/Caret">Repository</a></sub>
 </td>
@@ -52,6 +55,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 <b><a href="https://tenonai.cn/products/yew/">Yew Harness</a></b><br>
 <sub>An AI-native multi-agent workbench</sub>
 <br clear="left">
+<a href="https://tenonai.cn/products/yew/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://tenonai.cn/assets/products/yew-approval-en-dark.webp"><img src="https://tenonai.cn/assets/products/yew-approval-en-light.webp" alt="Yew Harness approval center: a push waiting for authorization and decision cards" width="100%"></picture></a>
 <p>Born for Session Engineering. You deal only with the main conversation, and approvals and decisions sit in the approval center, on your phone too.</p>
 <sub><a href="https://github.com/dozybot001/Yew">Repository</a> · <a href="https://tenonai.cn/products/yew/">Details</a></sub>
 </td>
@@ -62,6 +66,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 <b><a href="https://tenonai.cn/products/wesaid/">WeSaid</a></b><br>
 <sub>A secret exchange app built on equal terms</sub>
 <br clear="left">
+<a href="https://tenonai.cn/products/wesaid/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://tenonai.cn/assets/products/wesaid-desktop-en-dark.webp"><img src="https://tenonai.cn/assets/products/wesaid-desktop-en-light.webp" alt="WeSaid on desktop: picking topics in private" width="100%"></picture></a>
 <p>Private wish pools, mutual matching, dual acceptance and a transactional reveal make safety part of the interaction rather than a policy page.</p>
 <sub><a href="https://apps.apple.com/us/app/wesaid/id6795870332">App Store</a> · <a href="https://wesaid.tenonai.cn/">Web</a></sub>
 </td>
@@ -70,7 +75,8 @@ I build agent systems that survive contact with real workflows: operable, audita
 <b><a href="https://tenonai.cn/products/passby/">PassBy</a></b><br>
 <sub>A simple password notebook</sub>
 <br clear="left">
-<p>No account, the app never goes online, and nothing passes through our servers. Your phone keeps the notebook.</p>
+<a href="https://tenonai.cn/products/passby/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://tenonai.cn/assets/products/passby-web-en-dark.webp"><img src="https://tenonai.cn/assets/products/passby-web-en-light.webp" alt="PassBy in the browser: the password list and one entry" width="100%"></picture></a>
+<p>No account, and nothing passes through our servers; your phone keeps the notebook. The app stays offline by default, except for optional AI grouping and sync with your other device on the same Wi-Fi.</p>
 <sub><a href="https://github.com/dozybot001/PassBy">Repository</a> · <a href="https://tenonai.cn/products/passby/">Details</a></sub>
 </td>
 </tr>
