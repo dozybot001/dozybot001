@@ -48,12 +48,12 @@ I build agent systems that survive contact with real workflows: operable, audita
 <sub><a href="https://caret.tenonai.cn/">Open Caret</a> · <a href="https://github.com/dozybot001/Caret">Repository</a></sub>
 </td>
 <td width="50%" valign="top">
-<img src="assets/icons/jig.svg" width="40" height="40" align="left" hspace="10" alt="">
-<b><a href="https://tenonai.cn/products/jig/">Jig</a></b><br>
+<img src="assets/icons/yew.svg" width="40" height="40" align="left" hspace="10" alt="">
+<b><a href="https://tenonai.cn/products/yew/">Yew</a></b><br>
 <sub>An AI-native multi-agent workbench</sub>
 <br clear="left">
 <p>Born for Session Engineering. You deal only with the main conversation, and approvals and decisions sit in the approval center, on your phone too.</p>
-<sub><a href="https://github.com/dozybot001/Yew">Repository</a> · <a href="https://tenonai.cn/products/jig/">Details</a></sub>
+<sub><a href="https://github.com/dozybot001/Yew">Repository</a> · <a href="https://tenonai.cn/products/yew/">Details</a></sub>
 </td>
 </tr>
 <tr>
