@@ -142,10 +142,10 @@ Shared infrastructure: an OIDC + PKCE account service (sign-up, email verificati
 ## Writing
 
 <!-- writing:start -->
+- [Session Engineering, part 3: keep evaluation and execution apart](https://tenonai.cn/blog/session-engineering-evaluation-execution/) <sub>2026-11-18</sub>
 - [Session Engineering, part 2: one session between me and the rest](https://tenonai.cn/blog/session-engineering-chief-of-staff/) <sub>2026-11-08</sub>
 - [Session Engineering: organizing agent sessions is also managing your own context](https://tenonai.cn/blog/session-engineering/) <sub>2026-11-06</sub>
 - [Writing every interaction into the model](https://tenonai.cn/blog/parametric-memory/) <sub>2026-10-31</sub>
-- [Dynamic intelligence: models that change as they run](https://tenonai.cn/blog/dynamic-intelligence/) <sub>2026-10-31</sub>
 <!-- writing:end -->
 
 <sub>More at [tenonai.cn/blog](https://tenonai.cn/blog/).</sub>
