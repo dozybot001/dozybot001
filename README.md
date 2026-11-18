@@ -49,7 +49,7 @@ I build agent systems that survive contact with real workflows: operable, audita
 </td>
 <td width="50%" valign="top">
 <img src="assets/icons/yew.svg" width="40" height="40" align="left" hspace="10" alt="">
-<b><a href="https://tenonai.cn/products/yew/">Yew</a></b><br>
+<b><a href="https://tenonai.cn/products/yew/">Yew Harness</a></b><br>
 <sub>An AI-native multi-agent workbench</sub>
 <br clear="left">
 <p>Born for Session Engineering. You deal only with the main conversation, and approvals and decisions sit in the approval center, on your phone too.</p>
